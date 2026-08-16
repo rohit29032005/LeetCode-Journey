@@ -30,6 +30,7 @@ LeetCode-Journey
 | [0018-4sum](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -44,4 +45,8 @@ LeetCode-Journey
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0118-pascals-triangle) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
