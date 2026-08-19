@@ -13,6 +13,7 @@ LeetCode-Journey
 | [0035-search-insert-position](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Binary Search
@@ -55,4 +56,8 @@ LeetCode-Journey
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
