@@ -16,6 +16,7 @@ LeetCode-Journey
 | [0136-single-number](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/rohit29032005/LeetCode-Journey/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,4 +61,12 @@ LeetCode-Journey
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0136-single-number) |
+## Math
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/rohit29032005/LeetCode-Journey/tree/master/1232-check-if-it-is-a-straight-line) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/rohit29032005/LeetCode-Journey/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
