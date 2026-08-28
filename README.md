@@ -14,6 +14,7 @@ LeetCode-Journey
 | [0088-merge-sorted-array](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/rohit29032005/LeetCode-Journey/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -26,6 +27,7 @@ LeetCode-Journey
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,9 +42,11 @@ LeetCode-Journey
 | [0016-3sum-closest](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Dynamic Programming
@@ -69,4 +73,12 @@ LeetCode-Journey
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/rohit29032005/LeetCode-Journey/tree/master/1232-check-if-it-is-a-straight-line) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
