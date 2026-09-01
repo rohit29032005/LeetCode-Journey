@@ -16,6 +16,7 @@ LeetCode-Journey
 | [0136-single-number](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
+| [0447-number-of-boomerangs](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/rohit29032005/LeetCode-Journey/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Binary Search
@@ -48,6 +49,7 @@ LeetCode-Journey
 | ------- |
 | [0169-majority-element](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
+| [0447-number-of-boomerangs](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -68,6 +70,7 @@ LeetCode-Journey
 ## Math
 |  |
 | ------- |
+| [0447-number-of-boomerangs](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0447-number-of-boomerangs) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/rohit29032005/LeetCode-Journey/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Geometry
 |  |
