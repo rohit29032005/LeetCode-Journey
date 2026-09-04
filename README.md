@@ -49,6 +49,7 @@ LeetCode-Journey
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0447-number-of-boomerangs](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0447-number-of-boomerangs) |
@@ -60,6 +61,7 @@ LeetCode-Journey
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
@@ -72,6 +74,7 @@ LeetCode-Journey
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0013-roman-to-integer) |
 | [0447-number-of-boomerangs](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0447-number-of-boomerangs) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/rohit29032005/LeetCode-Journey/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Geometry
