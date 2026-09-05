@@ -52,6 +52,7 @@ LeetCode-Journey
 | [0013-roman-to-integer](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0447-number-of-boomerangs](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Dynamic Programming
@@ -63,10 +64,12 @@ LeetCode-Journey
 | ------- |
 | [0013-roman-to-integer](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0125-valid-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0424-longest-repeating-character-replacement) |
 ## Bit Manipulation
 |  |
 | ------- |
