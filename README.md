@@ -39,6 +39,7 @@ LeetCode-Journey
 | [0088-merge-sorted-array](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0125-valid-palindrome) |
 | [0541-reverse-string-ii](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0541-reverse-string-ii) |
+| [0647-palindromic-substrings](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0647-palindromic-substrings) |
 | [3794-reverse-string-prefix](https://github.com/rohit29032005/LeetCode-Journey/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
@@ -61,6 +62,7 @@ LeetCode-Journey
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0118-pascals-triangle) |
+| [0647-palindromic-substrings](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0647-palindromic-substrings) |
 ## String
 |  |
 | ------- |
@@ -68,6 +70,7 @@ LeetCode-Journey
 | [0125-valid-palindrome](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0541-reverse-string-ii](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0541-reverse-string-ii) |
+| [0647-palindromic-substrings](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0647-palindromic-substrings) |
 | [3794-reverse-string-prefix](https://github.com/rohit29032005/LeetCode-Journey/tree/master/3794-reverse-string-prefix) |
 ## Sliding Window
 |  |
