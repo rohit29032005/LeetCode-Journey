@@ -18,6 +18,7 @@ LeetCode-Journey
 | [0219-contains-duplicate-ii](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0447-number-of-boomerangs](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0463-island-perimeter](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0463-island-perimeter) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/rohit29032005/LeetCode-Journey/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/rohit29032005/LeetCode-Journey/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Binary Search
@@ -103,4 +104,16 @@ LeetCode-Journey
 |  |
 | ------- |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/rohit29032005/LeetCode-Journey/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/rohit29032005/LeetCode-Journey/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
